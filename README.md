@@ -1,4 +1,5 @@
 # sportsstore
+Learning Vue.js with Pro Vue.js 2 by Adam Freeman
 
 ## Project setup
 ```
@@ -22,3 +23,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
